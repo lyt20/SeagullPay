@@ -1,4 +1,4 @@
-# 众鸥支付 (Seagull Pay) CLI 自动化助手 - 使用文档
+# SeagullPay-Merchant-Script （SeagullPay-商户脚本） - 使用文档
 
 本脚本（`1.py`）是一个专为“众鸥支付”定制的高级自动化控制台工具，不仅提供实时的账单监控看板，还内置了**微服务 API**、**Webhook 异步回调**以及**高强度的资金安全防御机制**。
 
