@@ -1,4 +1,4 @@
-# **SeagullPay - https://seagull.teft.cn/**
+# **SeagullPay - https://pay.teft.us/**
 
 # **一款便捷、双语的支付钱包系统**
 
